@@ -95,7 +95,7 @@
             to   { box-shadow: 0 2px 32px rgba(247,37,133,0.7);}
         }
         .watch-btn:hover {
-            transform: scale(1.09);
+            transform: scale(1.15);
             background: linear-gradient(90deg, #b5179e 60%, #3a0ca3 100%);
         }
         .powered {
@@ -103,7 +103,7 @@
             font-size: 1em;
             color: #a0a0b2;
             letter-spacing: 1px;
-            animation: fadeIn 3s;
+            animation: fadeIn 6s;
         }
     </style>
 </head>
@@ -112,7 +112,7 @@
         <div class="pulse"></div>
     </div>
     <div class="promo-container">
-        <img src="c:\Users\dell\OneDrive\Desktop\cool_wallpaper\images.jpg.png" alt="Solo Leveling Poster" class="anime-img">
+        <img src="c:\Users\dell\OneDrive\Desktop\cool_wallpaper\images.jpg" alt="Solo Leveling Poster" class="anime-img">
         <div class="promo-title">Solo Leveling</div>
         <div class="promo-desc">
             Witness Sung Jinwoo's rise from the weakest hunter to the legendary Shadow Monarch! Dive into the world of Solo Leveling, packed with action, mystery, and epic battles with other monarchs and most storengest dragon monarch.
