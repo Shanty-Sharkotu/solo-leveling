@@ -50,10 +50,10 @@
 </head>
 <body>
     <div class="promo-container">
-        <img src="c:\Users\dell\OneDrive\Desktop\cool_wallpaper\images.jpg" alt="Anime Poster" class="anime-img">
+        <img src="C:\Users\dell\OneDrive\Desktop\cool_wallpape.jpg" alt="Anime Poster" class="anime-img">
         <div class="promo-title">solo-leveling</div>
         <div class="promo-desc">
-            Experience the epic battle between Shadow Monarch and all the Monarchs! Don’t miss out on one of the most thrilling anime adventures.
+            Experience the epic battle promoted by Nittin Sharkotu between Shadow Monarch and all the Monarchs! Don’t miss out on one of the most thrilling anime adventures.
         </div>
         <a href="https://www.crunchyroll.com/solo-leveling" class="watch-btn" target="_blank">Watch Now</a>
     </div>
