@@ -13,9 +13,9 @@ Powered by Nittin Sharkotu
         }
         .promo-container {
             background: #22223b;
-            border-radius: 12px;
-            padding: 30px;
-            max-width: 400px;
+            border-radius: 14px;
+            padding: 40px;
+            max-width: 500px;
             margin: 0 auto;
             box-shadow: 0 4px 16px rgba(0,0,0,0.3);
         }
@@ -44,7 +44,7 @@ Powered by Nittin Sharkotu
             text-decoration: none;
         }
         .watch-btn:hover {
-            background: #b5179e;
+            background: <img scr="C:\Users\dell\OneDrive\Desktop\cool_wallpaper.jpg";
         }
     </style>
 </head>
