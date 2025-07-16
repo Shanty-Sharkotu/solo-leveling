@@ -1,4 +1,4 @@
-<!Powered by Nittin Sharkotu>
+Powered by Nittin Sharkotu
 <html lang="en">
 <head>
     <meta charset="UTF-8">
