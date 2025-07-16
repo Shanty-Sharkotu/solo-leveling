@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -115,7 +115,7 @@
         <img src="c:\Users\dell\OneDrive\Desktop\cool_wallpaper\images.jpg.png" alt="Solo Leveling Poster" class="anime-img">
         <div class="promo-title">Solo Leveling</div>
         <div class="promo-desc">
-            Witness Sung Jinwoo's rise from the weakest hunter to the legendary Shadow Monarch! Dive into the world of Solo Leveling, packed with action, mystery, and epic battles.
+            Witness Sung Jinwoo's rise from the weakest hunter to the legendary Shadow Monarch! Dive into the world of Solo Leveling, packed with action, mystery, and epic battles with other monarchs and most storengest dragon monarch.
         </div>
         <a href="https://www.crunchyroll.com/solo-leveling" class="watch-btn" target="_blank">Watch Now</a>
     </div>
