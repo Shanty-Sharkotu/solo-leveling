@@ -43,9 +43,6 @@ Powered by Nittin Sharkotu
             cursor: pointer;
             text-decoration: none;
         }
-        .watch-btn:hover {
-            background: <img scr="C:\Users\dell\OneDrive\Desktop\cool_wallpaper.jpg";
-        }
     </style>
 </head>
 <body>
